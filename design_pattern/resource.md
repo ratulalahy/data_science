@@ -12,3 +12,4 @@ https://stackabuse.com/design-patterns-in-python/
 
 https://sourcemaking.com/design_patterns/builder
 
+Some other will be added.
